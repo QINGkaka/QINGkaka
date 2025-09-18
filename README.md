@@ -9,7 +9,7 @@
 ## 👨‍🎓 About Me  
 - 🎓 I’m **Guo Qing**, a **Software Engineering student at Central South University (CSU)**.  
 - 💻 Passionate about **Java, Python, AI, System Design, Databases**.  
-- 🌱 Currently learning **Causal Machine Learning, TTS/Voice Cloning, and High-performance Systems**.  
+- 🌱 Currently learning **Machine Learning, TTS/Voice Cloning, and High-performance Systems**.  
 - 📚 Love **open-source projects** and exploring **cutting-edge tech**.  
 - ✨ Motto: *"Stay curious, stay hungry, stay coding."*
 
@@ -35,22 +35,21 @@
 
 ## 📊 GitHub Stats  
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wisdom-zhe&theme=radical&date_format=M%20j%5B,%20Y%5D" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GuoQing-CSU&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuoQing-CSU&theme=radical&date_format=M%20j%5B,%20Y%5D" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wisdom-zhe&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuoQing-CSU&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 🌍 Connect With Me  
 
-- 📫 Email: **wisdom_zhe@qq.com**  
-- ✍️ Blog: [CSDN - Guo Qing](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)  
-- 💼 LinkedIn: *(你要的话我可以帮你加上)*  
+- 📫 Email: **2220294086@qq.com**   
 
 ---
 
