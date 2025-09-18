@@ -41,10 +41,4 @@
 
 ---
 
-<p align="center">
-  You are my visitor 🎉, Thank You! 💖  
-</p>
-
----
-
 ✨ *Powered by passion, persistence, and a love for coding.* 🚀
