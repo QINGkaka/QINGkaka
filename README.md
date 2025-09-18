@@ -33,20 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuoQing-CSU&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuoQing-CSU&theme=radical&date_format=M%20j%5B,%20Y%5D" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuoQing-CSU&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ## 🌍 Connect With Me  
 
 - 📫 Email: **2220294086@qq.com**   
@@ -54,9 +40,7 @@
 ---
 
 <p align="center">
-  You are my  
-  <img src="https://profile-counter.glitch.me/wisdom-zhe/count.svg" />  
-  visitor 🎉, Thank You! 💖  
+  You are my visitor 🎉, Thank You! 💖  
 </p>
 
 ---
